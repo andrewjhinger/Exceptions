@@ -1,12 +1,15 @@
-#Exceptions
+#ColorMatch
 ###Environment:
 
 Windows form application
 
 ###Concepts used:
 
-Text..
+Exceptions and Exception Handling
 
 ###Functionality:
 
-Text..
+This forms illustrates different exceptions processing techniques.
+
+
+![alt tag](https://raw.github.com/andrewjhinger/ColorMatch/master/Capture.JPG)
